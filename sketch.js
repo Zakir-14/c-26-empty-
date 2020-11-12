@@ -35,7 +35,8 @@ function setup(){
 
     bird = new Bird(100,100);
 
-    base = new Ground(100,300,200,200)
+    base = new Ground(50,300,200,200)
+    //angrybirds game
 
 }
 
